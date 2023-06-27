@@ -1,5 +1,5 @@
 ---
-title: "A few DotCMS vulnerabilities"
+title: "A few vulnerabilities in DotCMS "
 date: 2023-01-26T10:06:51-05:00
 slug: dotcms
 hideReadMore: true

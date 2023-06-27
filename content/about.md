@@ -1,1 +1,1 @@
-This blog was created to track my own journey into cybersecurity and hopefully help others along the way.
+This blog was created to track my journey into cybersecurity and hopefully help others along the way.

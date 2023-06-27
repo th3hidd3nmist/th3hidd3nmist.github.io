@@ -1,4 +1,4 @@
-baseurl = "https://th3hidd3nmist.github.io/th3hidd3nmist/"
+baseurl = "https://th3hidd3nmist.github.io/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
@@ -49,7 +49,7 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "th3hidd3mist"
-      logoHomeLink = "/th3hidd3nmist"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
