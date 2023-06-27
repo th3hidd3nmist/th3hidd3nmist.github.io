@@ -1,0 +1,61 @@
+code, kbd {
+    color:#ff648b;
+    font-size:medium;
+    background-color: #0D1726;
+}
+
+.button {
+    background:transparent;
+}
+
+::selection {
+    background: #64ff64;
+    color: #000;
+}
+
+.pagination__title-h {
+    color: #000;
+    background-color: #64ff64;
+}
+
+img {
+    border-style:solid;
+    border-color: #64ff64;
+    border-width: 0.1px;
+}
+
+.button a {
+    border-style:solid;
+    border-color: #64ff64;
+    border-width: 1.5px;
+}
+
+.logo {
+    font-weight:lighter;
+}
+
+hr{
+    background-color: #64ff64; height: 1px; border: 0;
+}
+
+body.dark-theme {
+    --background: #0D1726;
+    --color: #ffffff;
+}
+
+.logo__cursor {
+    background: rgb(0, 0, 0);
+}
+
+.header {
+    background-color:#e43f5aff;
+}
+
+.footer {
+    color: #e43f5aff;
+}
+
+h1 {
+    font-weight:lighter;
+    /*font-size: 33px !important;*/
+}
