@@ -10,6 +10,9 @@ It's been quite a while since my last post. I was busy with finishing up my degr
 
 At this point, if you're preparing for OSWE you've probably read through tones of blogs already. With this blog I've tried to keep it short and simple. I'll outline my approach towards cracking the exam and try to answer common questions I get, so that I can shamelessly direct anyone asking here.
 
+---
+
+
 `Background`
 
 Prior to preparing for OSWE I had zero experience in code review and while I don't have any professional experience in development, I can quickly hack something up in PHP, Python or NodeJS if needed.
@@ -17,6 +20,9 @@ Prior to preparing for OSWE I had zero experience in code review and while I don
 I'm not OSCP certified, and I didn't touch HTB for preparation.
 
 I registered for the two-month course and took 300 hours over a span of 3 months, from pre-registration to taking the exam and passing on the first attempt.
+
+---
+
 
 `Pre-Registration`
 
@@ -38,6 +44,8 @@ These blogs have great writeups with varying degrees of complexity:
 - [Assetnote](https://blog.assetnote.io/)
 - [Sonar Source](https://www.sonarsource.com/blog/)
 
+---
+
 
 `Post Registration`
 
@@ -51,6 +59,8 @@ This really helped me in fleshing out a concrete methodology that I could use wh
 
 With my lab time running out I didn't complete all the extra miles but was able to solve the majority of them. Instead, I wanted to focus on getting one mock exam done and selected two extra machines whose solutions aren't provided. I gave myself 48 hours and skipped reporting. This was important to test my methodology and refine it further for the actual exam. I found the exam boxes to be a bit trickier, but still doable.
 
+---
+
 `The Exam`
 
 Being able to cover the extra miles will be really helpful in passing the exam and I'd suggest doing as many as possible on your own.
@@ -59,6 +69,8 @@ Being able to cover the extra miles will be really helpful in passing the exam a
  - Take frequent breaks. I paced in my room for a few minutes after every hour and a half. Code review can be mentally taxing if you're new to it.
  - Make sure that you get a good amount of sleep. I ended up finding the last vulnerability too late because of a simple mistake I made when crafting payloads since I'd slept for 3 hours on the second day. Fortunately, I had enough points to pass at this point.
  - Make sure you take screenshots of everything!
+
+---
 
 `Closing thoughts`
 

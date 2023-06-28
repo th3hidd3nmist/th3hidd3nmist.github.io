@@ -295,6 +295,8 @@ An authenticated XSS is still possible at the time of writing but requires the v
 
 ![](xss.png "XSS")
 
+---
+
 ## Closing thoughts
 
 I only focused on pre-authentication vulnerabilities and haven't even begun to go through the authenticated parts. The application probably has a few more interesting bugs to uncover.
