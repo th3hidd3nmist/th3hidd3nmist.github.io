@@ -1,6 +1,6 @@
 ---
 title: "Great, another OSWE blog"
-date: 2023-01-25T22:23:51-05:00
+date: 2022-06-20T22:23:51-05:00
 description: My thoughts on the OSWE exam
 slug: oswe
 hideReadMore: true
